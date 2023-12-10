@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agung Dwi Kurniawan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #dddedf;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+		.foto  {
+		      align-items: left;
+			  width: 100px;
+			  height: 100px;
+			  }
+       
+        nav {
+            background-color: #eee;
+            padding: 1em;
+        }
+
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #333;
+        }
+
+        section {
+            padding: 20px;
+        }
+		 .wa {
+		    align-items: left;
+			width: 100px;
+			height: 100px;
+		}
+		.gmail {
+		    align-items: left;
+			width: 100px;
+			height: 90px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Agung Dwi Kurniawan</h1>   
+		<img src="agungdk.jpg" alt="my picture" class="foto">
+		<p>IT SUPPORT</p>
+    </header>
+
+    <nav>
+        <a href="Stories.html">Stories</a>
+        <a href="Education.html">Education</a>
+        <a href="Work Experience.html">Work Experience</a>
+        <a href="Contact Information.html">Contact Information</a>
+    </nav>
+
+    <section>
+        <div class="Contact Information">
+            <h2>Contact Information</h2>
+		<ul><li><p><img src="wa.jpg" alt="wa" class="wa"</p>
+		<p><a href="https://wa.me/628816624378?text=Isi Pesan">Hubungi Via WhatsApp</a></p></li>
+		<p><img src="gmail.jpg" alt="gmail" class="gmail"</p>
+		<p><li><a href="mailto:dkagung41@gmail.com">Hubungi Via Gmail</a>.</li></p>
+  
+ </div>
+
+        <!-- Add more appointment divs as needed -->
+
+    </section>
+
+    <footer>
+        &copy; 2023 Agung Dwi Kurniawan
+    </footer>
+
+</body>
+</html>
