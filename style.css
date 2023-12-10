@@ -1,0 +1,71 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #dddedf;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+		.foto  {
+		      align-items: left;
+			  width: 100px;
+			  height: 100px;
+			  }
+
+        nav {
+            background-color: #eee;
+            padding: 1em;
+        }
+
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #333;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .appointment {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            background-color: white;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+			}
+			.smk  {
+		      align-items: left;
+			  width: 100px;
+			  height: 100px;
+			  }
+			  .mtcna  {
+		      align-items: center;
+			  width: 170px;
+			  height: 110px;
+			  
+			  }
+			  .wa {
+		    align-items: left;
+			width: 100px;
+			height: 100px;
+		}
+		.gmail {
+		    align-items: left;
+			width: 100px;
+			height: 90px;
+        }
